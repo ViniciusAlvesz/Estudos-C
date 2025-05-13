@@ -5,27 +5,30 @@ Tudo tem um começo — e este foi o meu. Aqui estão todos os códigos que escr
 # Arquivos
 
 ## Sessão 1
-
 ### `programa00.c`
 Meu primeiro código em C. Nele, utilizei o comando `printf()` para exibir uma mensagem no terminal. Uma mensagem simples para começar.
 
 ### `programa01.c`
 Aprendi a estrutura básica de um programa em C, com a função `int main()` e o uso de variáveis inteiras, com parâmetros solicitados em um `scanf()`. O programa solicita a idade do usuário e a exibe em seguida.
 
-## Sessão 2
 
+## Sessão 2
 ### `programa02.c`
+Nesse código, o cliente informará sua idade, com base em condições de If/Else/If Else, ele informa ao cliente se o cliente é menor de idade, maior de idade, ou idoso.
 
 ### `NumeroAoQuadrado.c`
+No código acima, ele solicita ao cliente um número que será elevado ao quadrado, caso não seja um número, o código irá barrar o cliente, solicitando um número válido.
 
 ### `imprimeInt.c`
+Nesse código, o cliente informará um número, que será armazenado e informado logo em seguida, o código barrará o cliente caso não seja informado um número válido. 
 
 ### `soma3int.c`
+Por fim dessa sessão, o código acima solicita 3 números para o cliente, que logo em seguida serão somados e informados de volta.
+
 
 ## Sessão 3
-
 ### `programa03-1.c`
-Um programa aonde eu entendi e usei da entrada `for()` para criar uam soma de 5 números informados pelo cliente.
+Um programa aonde eu entendi e usei da entrada `for()` para criar uma soma de 5 números informados pelo cliente.
 
 ### `programa03-2.c`
 Outro código aonde eu entendi e usei da entrada `while()`, que soma números do cliente indefinitivamente, até que o mesmo informe o valor zero para finalizar o procedimento.
@@ -42,10 +45,10 @@ Por último, esse próximo programa em C que solicita para o usuário 3 números
 ### `mediaAritmética.c`
 Nesse próximo código, utilizei de variáveis `float` para requisitar ao cliente 4 notas de alunos distintos, após essa captura de informações, adicionei duas variáveis, uma para receber todas as notas, e mais uma para que seja realizado a média aritmética de todas elas, logo após informando ao usuário.
 
+
 ## Sessão 4
-
 ### `programa04.c`
-
+No código acima, crio uma variável que irá se repetir infinitamente, por não ter uma condição de parada, informando cada valor do seu looping, até ser parado manualmente.
 ### `exercicios sessão 4`
 
 ### `MaiorEMenor.c`
