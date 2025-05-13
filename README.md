@@ -2,7 +2,9 @@
 
 Tudo tem um começo — e este foi o meu. Aqui estão todos os códigos que escrevi na minha jornada estudando C de forma autodidata.
 
-## Arquivos
+### Arquivos
+
+## Sessão 1
 
 ### `programa00.c`
 Meu primeiro código em C. Nele, utilizei o comando `printf()` para exibir uma mensagem no terminal. Uma mensagem simples para começar.
@@ -10,15 +12,17 @@ Meu primeiro código em C. Nele, utilizei o comando `printf()` para exibir uma m
 ### `programa01.c`
 Aprendi a estrutura básica de um programa em C, com a função `int main()` e o uso de variáveis inteiras, com parâmetros solicitados em um `scanf()`. O programa solicita a idade do usuário e a exibe em seguida.
 
+## Sessão 2
+
 ### `programa02.c`
 
-## `exercicios sessão 2`
+### `NumeroAoQuadrado.c`
 
-## `NumeroAoQuadrado.c`
+### `imprimeInt.c`
 
-## `imprimeInt.c`
+### `soma3int.c`
 
-## `soma3int.c`
+## Sessão 3
 
 ### `programa03-1.c`
 
@@ -26,22 +30,22 @@ Aprendi a estrutura básica de um programa em C, com a função `int main()` e o
 
 ### `programa03-3.c`
 
-## `exercicios sessão 3`
+### `Loteria.c`
 
-## `Loteria.c`
+### `SomaAoQuadrado.c`
 
-## `SomaAoQuadrado.c`
+### `mediaAritmética.c`
 
-## `mediaAritmética.c`
+## Sessão 4
 
 ### `programa04.c`
 
-## `exercicios sessão 4`
+### `exercicios sessão 4`
 
-## `MaiorEMenor.c`
+### `MaiorEMenor.c`
 
-## `omaCem.c`
+### `omaCem.c`
 
-## `multiplosDeTres.c`
+### `multiplosDeTres.c`
 
 ### `programa05.c`
