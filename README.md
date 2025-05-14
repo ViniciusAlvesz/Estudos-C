@@ -61,3 +61,4 @@ Por fim, este código declara um número inteiro com 0, e o incrementa de 100 em
 Já neste código, ele, de forma simples, informa os 5 primeiros múltiplos de 3, excluindo o 0.
 
 ### `programa05.c`
+Neste programa, a fim de entender melhor sobre looping, desenvolvi um código que lê um valor iniciado com 1, e uma função `while()` sem critérios de parada, que irá estar realizando um looping infinito, informando o número de vezes que foi repetido, até que seja parado manualmente.
