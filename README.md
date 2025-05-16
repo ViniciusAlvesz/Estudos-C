@@ -6,7 +6,7 @@ Tudo tem um começo — e este foi o meu. Aqui estão todos os códigos que escr
 
 ## Sessão 1
 ### `programa00.c`
-Meu primeiro código em C. Nele, utilizei o comando `printf()` para exibir uma mensagem no terminal. Uma mensagem simples para começar.
+Meu primeiro código em C. Nele, utilizei o comando `printf()` para exibir uma mensagem no terminal. Todo caminho na programação começa com um "Hello World".
 
 ### `programa01.c`
 Aprendi a estrutura básica de um programa em C, com a função `int main()` e o uso de variáveis inteiras, com parâmetros solicitados em um `scanf()`. O programa solicita a idade do usuário e a exibe em seguida.
