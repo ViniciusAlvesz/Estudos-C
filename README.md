@@ -62,3 +62,6 @@ Já neste código, ele, de forma simples, informa os 5 primeiros múltiplos de 3
 
 ### `programa05.c`
 Neste programa, a fim de entender melhor sobre looping, desenvolvi um código que lê um valor iniciado com 1, e uma função `while()` sem critérios de parada, que irá estar realizando um looping infinito, informando o número de vezes que foi repetido, até que seja parado manualmente.
+
+### `programa06.c`
+Nele, pude abranger melhor meu conhecimento sobre os tipos de variáveis, desta vez os reais e inteiros, desenvolvendo um código que apenas realiza uma média de duas notas, informando elas.
