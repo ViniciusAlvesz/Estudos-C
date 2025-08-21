@@ -65,3 +65,24 @@ Neste programa, a fim de entender melhor sobre looping, desenvolvi um código qu
 
 ### `programa06.c`
 Nele, pude abranger melhor meu conhecimento sobre os tipos de variáveis, desta vez os reais e inteiros, desenvolvendo um código que apenas realiza uma média de duas notas, informando elas.
+
+### `programa07.c`
+Neste programa, aprendi mais sobre os tipos de dados alfanuméricos, diferença entre caractéres e strings, também criei um sistema de menu simplificado aonde o cliente seleciona em qual menur quer entrar através de um caractére, que será armazenado em "&opcao"
+
+### `programa08.c`
+No Programa08, para entender mais sobre os tipos de dados alfanuméricos, gerei um alfabeto completo com um LOOP, utilizando enumerações decimais, referentes à tabela ASCII (American Standard Code For Information Interchange), assim ele informa de A a Z quais são seus respectivos números na tabela, começando por 97, e indo até 122.
+
+### `programa09.c`
+Para finalizar o entendimento sobre alfanuméricos, nesse código, criei uma declaração em string para um nome com até 49 caracteres, após isso, o programa solicita o nome ao cliente, e armazena o mesmo com um gets, assim, logo após, informando o nome escrevido novamente ao cliente.
+
+### `programa10.c`
+Nesse programa, aprofundei mais nos tipos de dados Booleanos, muito utilizados para procedimentos "False/True", como a linguagem C não existe definitivamente um booleano, ela reconhece o valor 0 como falso e qualquer outro além de 0 como True. O código inicia como um inteiro booleano 1, logo verdadeiro, e assim se ele for verdadeiro (que é o caso), o código irá informar com um sistema de if simples.
+
+### `programa11.c`
+No programa a seguir me auxiliou a entender mais sobre operações matemáticas e como utilizá-las na linguagem C (Soma, subtração, multiplicação, divisão, elevar e módulo). O programa solicita 2 números que serão informados ao usuário, e assim todas essas operações ocorrerão com os números informados.
+
+### `programa12.c`
+Neste programa eu aprendi mais sobre vetor (Array unidimensional), e assim o programa solicita o nome do usuário, com um char com 50 caracteres, ao informar, o programa informa o nome, e também cria uma tabela de A a Z com o ASCII (semelhante ao programa08), mas desta vez utilizando vetores.
+
+### `programa13.c`
+No código atual, abordamos mais profundamente sobre vetores, criando um vetor de 5 números inteiros, separados em linha, logo após, ele informa cada valor dos números inseridos no inteiro, dividindo-os por 2.
